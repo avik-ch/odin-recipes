@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(25, 25, 25);
+    padding: 8px;
+}
+
+.home-button {
+    background-color: antiquewhite;
+    padding: 8px;
+    width:fit-content;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+.recipe-block {
+    background-color: antiquewhite;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.block-child {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 8px;
+}
+
+.block-last-element {
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.block-image {
+    border-radius: 20px;
+}
